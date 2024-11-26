@@ -1,3 +1,6 @@
+[<img width="940" alt="Starbucks Image" src="https://github.com/Kanishka032/StarBucks/e0ed50933925d3472c211830b9f58f572c2b59bc/images/Screenshot%202024-11-26%20160631.png">](https://www.starbucks.com)
+
+
 # StarBucks
 # Starbucks Website
 
@@ -50,4 +53,8 @@ starbucks-website/
 6. **License**: Specifies the open-source nature of the project.
 7. **Contact Us**: Placeholder contact information for inquiries.
 
-8. 
+8. ## Watch the Video
+
+Click the thumbnail below to watch the video on YouTube:
+
+[![Watch Video](https://youtu.be/5OuY3yiwbL4?feature=shared)
