@@ -1,4 +1,4 @@
-[<img width="940" alt="Starbucks Image" src="https://github.com/Kanishka032/StarBucks/e0ed50933925d3472c211830b9f58f572c2b59bc/images/Screenshot%202024-11-26%20160631.png">](https://www.starbucks.com)
+<img width="940" alt="image" src="https://github.com/Kanishka032/StarBucks/blob/e0ed50933925d3472c211830b9f58f572c2b59bc/images/Screenshot%202024-11-26%20160631.png">
 
 
 # StarBucks
@@ -57,4 +57,4 @@ starbucks-website/
 
 Click the thumbnail below to watch the video on YouTube:
 
-[![Watch Video](https://youtu.be/5OuY3yiwbL4?feature=shared)
+[![Watch Video](https://img.youtube.com/vi/62dbDAIl14M/0.jpg)](https://youtu.be/5OuY3yiwbL4?feature=shared)
