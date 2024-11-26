@@ -56,4 +56,6 @@ starbucks-website/
 8. ## Watch the Video
 
 Click the thumbnail below to watch the video on YouTube:
-[![Watch Video](https://img.youtube.com/vi/62dbDAIl14M/0.jpg)](https://youtu.be/5OuY3yiwbL4?feature=shared)
+
+[![Watch Video](https://img.youtube.com/vi/5OuY3yiwbL4/0.jpg)](https://youtu.be/5OuY3yiwbL4?feature=shared)
+
